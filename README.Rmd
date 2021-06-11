@@ -1,0 +1,6 @@
+---
+title: "README"
+output: html_document
+---
+
+Step 1: Run prepare_data to setup the database
